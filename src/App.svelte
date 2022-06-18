@@ -9,3 +9,20 @@
 		</h2>
 	</div>
 </main>
+
+<style>
+	#polyviz h1{
+		font-size: 3vw
+	}
+	#polyviz h2{
+		font-size: 1vw
+	}
+	@media(max-width: 768px){
+		#polyviz h1{
+			font-size: 12vw
+		}
+		#polyviz h2{
+			font-size: 4vw
+		}
+	}
+</style>
