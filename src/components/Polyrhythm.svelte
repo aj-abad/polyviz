@@ -14,3 +14,8 @@
   {/each}
 </div>
 
+<style>
+  button {
+    font-size: 2rem;
+  }
+</style>
