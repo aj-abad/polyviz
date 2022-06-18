@@ -1,5 +1,5 @@
 <script>
-
+  import Polyrhythm from "./components/Polyrhythm.svelte";
 </script>
 
 <main style="height: 100vh">
@@ -9,6 +9,7 @@
 			Polyrhythm Visualizer
 		</h2>
 	</div>
+  <Polyrhythm />
 </main>
 
 <style>
